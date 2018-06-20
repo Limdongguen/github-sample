@@ -30,7 +30,7 @@ public class ArrayTest {
 		}
 		
 		// String 배열을 사용하는 경우
-		String[] names = new String[20];
+		String[] names = new String[200];
 		
 		for (String name : names) {
 			System.out.println(name);
